@@ -1,0 +1,7 @@
+game engine
+===========
+
+HTML5 elements + CSS3 for graphics
+architecture only gets rendered once
+
+updates -> animations 
